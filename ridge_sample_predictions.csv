@@ -1,0 +1,11 @@
+car_age,km_driven,fuel,seller_type,transmission,owner,brand,actual_price,predicted_price
+16,80000,Diesel,Individual,Manual,First Owner,Tata,165000,182849.21112583962
+7,27000,Petrol,Individual,Manual,First Owner,Renault,250000,484505.35886246484
+18,41723,Petrol,Individual,Manual,Second Owner,Hyundai,120000,150522.635743301
+12,141000,Diesel,Individual,Manual,Second Owner,Honda,450000,508096.57916254277
+10,60000,Diesel,Individual,Automatic,Second Owner,Mahindra,730000,928229.2488476635
+14,19077,Petrol,Individual,Manual,Second Owner,Maruti,155000,214007.2210606521
+11,14272,Petrol,Dealer,Manual,First Owner,Ford,530000,375536.53505601484
+13,25000,Petrol,Individual,Manual,Second Owner,Maruti,92800,238499.11931772996
+10,40000,Diesel,Individual,Manual,Second Owner,Maruti,284000,499906.64103085315
+14,42000,Petrol,Dealer,Manual,First Owner,Ford,260000,261692.9696535239
